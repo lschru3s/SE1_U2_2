@@ -4,7 +4,7 @@ public class Project {
 	
 	String[][] array;
 	
-	Project(String[][] s) {
+	Project(String[][] s) { // jrode2s meine Aenderung
 		array = s;
 	}
 	
